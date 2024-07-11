@@ -33,4 +33,4 @@ Aim: To detect unauthorized access attempts and alert the user, helping to prote
 
 # logging_reporting.py:
 
-Aim: To log security-related activities and generate comprehensive reports. This aids in auditing, compliance, and understanding the security landscape of the monitored environment.
+Aim: To log security-related activities and generate comprehensive reports. This aids in auditing, compliance, and understanding the security landscape of the monitored environment
